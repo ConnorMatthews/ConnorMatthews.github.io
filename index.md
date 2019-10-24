@@ -17,8 +17,8 @@
  optimize the overall user experience.
 - Coordinated with a team of eight coworkers to efficiently complete new builds and releases for
  multiple projects.
+ 
 ### __Technical Skills__
-
 ###### Programming
 - Demonstrated experience in JavaScript, Python, jQuery, Groovy/Grails, SQL (SAP)
 - Course knowledge in C, C++, Java
