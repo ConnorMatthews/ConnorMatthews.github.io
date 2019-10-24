@@ -24,13 +24,13 @@
   - Course knowledge in C, C++, Java
 
 ###### Software Development
- - Demonstrated experience in version control using Git, IntelliJ IDE, MVC design patterns, agile development, Jira ticket system.
+ - Demonstrated experience in version control using Git, IntelliJ IDE, MVC design patterns, agile development, Jira ticket system, Confluence
 
 ### __Education__
  ###### Bachelor of Science, Computer Science Major (Co-op Option) (2015 - Present)
  *Networks and Security  Specialization*                                                              
   University of Manitoba   
-  Dean’s Honour List: Winter 2019, Winter 2018, Fall 2017
+  Deanâ€™s Honour List: Winter 2019, Winter 2018, Fall 2017
 
 ### __Additional Information__
   #### Dairy/Grocery Clerk (May 2013 - Present)
