@@ -2,7 +2,7 @@
 By Connor Matthews
 
 ## Introduction 
-This is a tutorial intended for those with no experience with Markdown and Jekyll and some knowledge of Github. It shows how these tools can be used to format a resume and host it on a themed webpage. An example of the finished product can be found [here](https://connormatthews.github.io/). The expected experience level for this tutorial is no experience in Markdown and Jekyll, and some experience in GitHub.
+This is a tutorial intended for those with no experience with Markdown and Jekyll and some knowledge of Github. It shows how these tools can be used to format a resume and host it on a themed webpage. An example of the finished product can be found [here](https://connormatthews.github.io/).
 
 ## Prerequisites 
 For this tutorial you should already have a resume made in a word processor. Your resume should be logically divided into sections such as work experience, education and technical skills. You will also need to have a GitHub account, and Git installed on your computer. Some parts will require you to use Git Bash. It is assumed that you know (or can figure out how) to do basic terminal tasks like navigating through file hierarchies. This Tutorial was done on a Windows 10 computer so step details may vary on different operating systems.
