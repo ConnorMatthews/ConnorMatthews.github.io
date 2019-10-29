@@ -3,6 +3,7 @@ By Connor Matthews
 
 ## Introduction 
 This is a tutorial intended for those with no experience with Markdown and Jekyll and some knowledge of Github. It shows how these tools can be used to format a resume and host it on a themed webpage. An example of the finished product can be found [here](https://connormatthews.github.io/). The expected experience level for this tutorial is no experience in Markdown and Jekyll, and some experience in GitHub.
+
 ## Prerequisites 
 For this tutorial you should already have a resume made in a word processor. Your resume should be logically divided into sections such as work experience, education and technical skills. You will also need to have a GitHub account, and Git installed on your computer. Some parts will require you to use Git Bash. It is assumed that you know (or can figure out how) to do basic terminal tasks like navigating through file hierarchies. This Tutorial was done on a Windows 10 computer so step details may vary on different operating systems.
 
@@ -70,9 +71,12 @@ You should now know everything you need to format a resume with markdown and hos
 - The official Jekyll tutorial: https://jekyllrb.com/docs/step-by-step/01-setup/
 
 ## Frequently Asked Questions
-__Q.__ Do I really have to download a new text editor just for writing in Markdown? 
+__Q.__ Do I really have to download a new text editor just for writing in Markdown?   
 __A.__ No, there are websites that work in much the same way as Atom does. some examples are markdownlivepreview.com and dillinger.io
 
+__Q.__ I can just edit the files in GitHub right?  
+__A.__ Yes, and this is very helpful for making quick edits after the original commit of the files.
+
 # Acknowledgements 
-Big thanks to the Group 18 crew (Kyle Boch and Jonathan Kuz) for ideas and editing.
+Big thanks to the Group 18 crew (Kyle Boch and Jonathan Kuz) for ideas and editing.  
 Thank you to Bill Gates for inventing the computer.
