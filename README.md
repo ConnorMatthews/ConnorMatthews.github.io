@@ -42,7 +42,7 @@ That’s it! You are now ready to convert your resume to Markdown. Here are the 
 12.	Use even lower level headers for any further titles under the segments. For example, you might want to use headers for job names and titles.
 13.	Use list formatting for any writing that describes a part of your resume in more detail. For example, the descriptions of your accomplishments at a certain job.
 
-Pro Tip: You should avoid indenting any of your lists, GitHub will do this automatically once your resumed has been copied over there.  
+Pro Tip: You should avoid indenting any of your lists, GitHub will do this automatically once your resume has been copied over there.  
 At this point, all aspects of your resume should be formatted in Markdown. You can verify this by looking at the preview window.
 
 ## Part 2: Putting a Resume Online With GitHub Pages
