@@ -32,7 +32,7 @@ That’s it! You are now ready to convert your resume to Markdown. Here are the 
   a.	Click the 'Settings' option under the file dropdown menu.  
   b.	Select 'Themes' from the menu on the left.  
   c.	Change the UI and syntax theme to a light one.  
-5.	Create a new file, use the keyboard shortcut Ctrl+N
+5.	Create a new file with the keyboard shortcut Ctrl+N
 6.	Open your resume in whatever word processor you used to make it (e.g. Microsoft Word).
 7.	Copy the text of your resume into the new file in Atom.
 8.	Save your Atom file as a .md file.
