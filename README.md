@@ -19,6 +19,7 @@ Here is all of the Markdown you will need to know to format your resume.
 |	1. List Item:| The text ‘List Item’ is formatted as a numbered list item.   |
 |	\_\_Bold Text__| The text ‘Bold Text’ is formatted as __bold text__.        |
 |	\_Italic Text_| The text ‘Italic Text’ is formatted as _italic text_.      |
+
 Spacing: Paragraphs are sepereated by a blank line. Line breaks can be introduced by adding two spaces to the end of a line.
 - Note: There are six different types of page headers. One '#' is referred to as a top level header, and ###### is the smallest header.
 
