@@ -21,7 +21,8 @@ Here is all of the Markdown you will need to know to format your resume.
 |	\_Italic Text_| The text ‘Italic Text’ is formatted as _italic text_.      |
 
 Spacing: Paragraphs are sepereated by a blank line. Line breaks can be introduced by adding two spaces to the end of a line.
-- Note: There are six different types of page headers. One '#' is referred to as a top level header, and ###### is the smallest header.
+
+Note: There are six different types of page headers. One '#' is referred to as a top level header, and ###### is the smallest header.
 
 That’s it! You are now ready to convert your resume to Markdown. Here are the step-by-step instructions for doing so.
 1.	Download the Atom installer [here](https://atom.io/). Atom is a free to use text editor with excellent support for writing markdown documents.
