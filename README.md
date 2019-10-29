@@ -25,10 +25,10 @@ That’s it! You are now ready to convert your resume to Markdown. Here are the 
 1.	Download the Atom installer here (https://atom.io/). Atom is a free to use text editor with excellent support for writing markdown documents.
 2.	Install Atom by following the installer instructions.
 3.	Open Atom. You can close the welcome screens that appear on start up.
-4.	(Optional) Change from the default theme to a light theme. The light theme may seem more natural when working with your resume
-a.	Click the settings option under the file dropdown menu.
-b.	Select Themes from the menu on the left.
-c.	Change the UI and syntax theme to a light one.
+4.	(Optional) Change from the default theme to a light theme. The light theme may seem more natural when working with your resume.  
+  a.	Click the settings option under the file dropdown menu.  
+  b.	Select Themes from the menu on the left.  
+  c.	Change the UI and syntax theme to a light one.  
 5.	Create a new file, use the keyboard shortcut Ctrl+N
 6.	Open your resume in whatever word processor you used to make it (e.g. Microsoft Word).
 7.	Copy the text of your resume into the new file in Atom.
@@ -57,11 +57,13 @@ Now that you have a markdown formatted resume file, it is time to host it online
 11.	Enter the address ‘https://repo_name’ into the web browser of your choice, where ’repo_name’ is the name of your repository in step 2. You should see your markdown formatted resume in all of its glory. 
   
 ## Part 3: Using a Jekyll Theme 
-The last thing left to do is give your resume website a fancy theme. Github supports applying themes to markdown formatted text documents using a static site generator called Jekyll. For this exercise you will use one of the default themes that GitHub offers. However, with Jekyll you can create your own themes or customize one created by other people if you are so inclined. 
+The last thing left to do is give your resume website a fancy theme. Github supports applying themes to markdown formatted text documents using a static site generator called Jekyll. For this exercise you will use one of the default themes that GitHub offers. However, with Jekyll you can create your own themes or customize one created by other people if you are so inclined. For a quick look at how Jekyll works, you will change the title of your web page from the default to 'Resume'. 
 1.	Navigate to the settings page of your Github Pages repository.
 2.	Under the ‘GitHub Pages’ selection click the button to choose a theme. This will take you to a new page showcasing the different options.
 3.	Choose one of the themes with the green ‘Select Theme’ button.
 4.	View your site. It should now have the chosen theme. It may take a few moments for the changes to take place.
+5.  Go to your repository, you should see a new file called \_config.yml. This is a YAML file. YAML is a markup language Jekyll uses for some site configuration options.
+6. Add a new line to the file as follow, 'title: Resume'.
 
 ## Concluding remarks
 You should now know everything you need to format a resume with markdown and host it online with GitHub pages. If you want to go further with this topic, an interesting thing to do would be to use a custom Jekyll theme for your site rather than one of the Github defaults. 
