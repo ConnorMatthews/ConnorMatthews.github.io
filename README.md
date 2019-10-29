@@ -22,7 +22,7 @@ Here is all of the Markdown you will need to know to format your resume.
 - Note: There are six different types of page headers. One '#' is reffered to as a top level header, and ###### is the smallest header.
 
 That’s it! You are now ready to convert your resume to Markdown. Here are the step-by-step instructions for doing so.
-1.	Download the Atom installer here (https://atom.io/). Atom is a free to use text editor with excellent support for writing markdown documents.
+1.	Download the Atom installer [here](https://atom.io/). Atom is a free to use text editor with excellent support for writing markdown documents.
 2.	Install Atom by following the installer instructions.
 3.	Open Atom. You can close the welcome screens that appear on start up.
 4.	(Optional) Change from the default theme to a light theme. The light theme may seem more natural when working with your resume.  
