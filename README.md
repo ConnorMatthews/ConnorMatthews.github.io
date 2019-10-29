@@ -66,7 +66,7 @@ The last thing left to do is give your resume website a fancy theme. GitHub supp
 3.	Choose one of the themes with the green ‘Select Theme’ button.
 4.	View your site. It should now have the chosen theme. It may take a few moments for the changes to take place.
 5.  Go to your repository, you should see a new file called \_config.yml. This is a YAML (YAML Ain't Markup Language) file. YAML is a language Jekyll uses for some site configuration options.
-6. Add a new line to the file as follow, 'title: Resume'.
+6. Add a new line to the file as follows, 'title: Resume'.
 
 ## Concluding Remarks
 You should now know everything you need to format a resume with Markdown and host it online with GitHub pages. If you want to go further with this topic, an interesting thing to do would be to use a custom Jekyll theme for your site rather than one of the GitHub defaults. 
